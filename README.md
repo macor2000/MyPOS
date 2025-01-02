@@ -1,3 +1,1 @@
 # myPOS
-# myPOS
-# MyPOS
